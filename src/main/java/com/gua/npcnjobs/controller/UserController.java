@@ -25,6 +25,4 @@ public class UserController {
     public Boolean isLogin() {
         return StpUtil.isLogin();
     }
-
-
 }
